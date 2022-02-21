@@ -12,9 +12,15 @@ A volume rendering web app with VTK.js & HTML
 ● vtkDICOMImageReader object is used.
 
 # Head 
-https://user-images.githubusercontent.com/61358818/154951698-f3449e16-8fe6-45e5-882d-36093e78049c.mp4
+
+
+https://user-images.githubusercontent.com/61358818/154952270-58007bd9-9037-4249-955d-d24a65d24788.mp4
+
+
 
 # Body
-https://user-images.githubusercontent.com/61358818/154951780-1e3afa78-e075-40bf-a3a5-bf0bba87534d.mp4
+
+
+https://user-images.githubusercontent.com/61358818/154952732-31e6ee54-e133-4300-920a-36c524e99498.mp4
 
 
