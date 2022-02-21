@@ -1,12 +1,20 @@
 # CG-VTKjs
-we debugged the head code and got a view of it in the local host 
+A Web GUI application
 
-![local](https://user-images.githubusercontent.com/61358818/147505155-68b42a44-9210-416d-8c4d-a7ad182b198b.png)
+A volume rendering web app with VTK.js & HTML
+● We used datasets provided in vtk examples (head for surface rendering and chest for ray casting)
+● Features:
+○ Support loading DICOM series dynamically using load button
+○ Surface rendering with adjustable iso value (try sliders)
+○ Ray casting rendering (with a fixed transfer function) :  ■ Adjustable transfer function.  ■ Shift preset.
+○ An interactive widget to cut the volume in the three perpendicular planes vtkImageCroppingWidget
 
-also ran the chest code. please see the history of index.js file as we ran both codes separately.
+● vtkDICOMImageReader object is used.
 
-![local host](https://user-images.githubusercontent.com/61358818/147504260-701a9b60-d97e-4caa-8c15-68244be92e3b.png)
+# Head 
+https://user-images.githubusercontent.com/61358818/154951698-f3449e16-8fe6-45e5-882d-36093e78049c.mp4
 
-the upcomming steps are running the widget part and then connecting all of the three codes together.
+# Body
+https://user-images.githubusercontent.com/61358818/154951780-1e3afa78-e075-40bf-a3a5-bf0bba87534d.mp4
 
-Team 7
+
